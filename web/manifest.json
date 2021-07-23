@@ -1,0 +1,23 @@
+{
+    "name": "KiosQ App Showcase",
+    "short_name": "KiosQ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "KiosQ App Showcase",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/KiosqLogo.png",
+            "sizes": "73x163",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/KiosqLogo@2x.png",
+            "sizes": "146x346",
+            "type": "image/png"
+        }
+    ]
+}
